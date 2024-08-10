@@ -14,7 +14,7 @@ Features: LuveBot provides various features including [auto roles, tickets & mor
 Limitations: LuveBot is provided as-is and may experience downtime or errors. We do not guarantee uninterrupted service or accuracy of responses.
 4. Data Collection and Privacy
 Data Collection: LuveBot may collect data necessary for its functionality. This includes but is not limited to server IDs, user IDs, and command usage statistics.
-Privacy: We do not sell or share personal data with third parties. For detailed information, please review our Privacy Policy [link to Privacy Policy].
+Privacy: We do not sell or share personal data with third parties. For detailed information, please review our Privacy Policy https://github.com/7uve/privacy/tree/main.
 5. Intellectual Property
 Ownership: LuveBot and its associated content are the property of their respective owners. You may not copy, modify, or distribute LuveBot without permission.
 6. Liability
